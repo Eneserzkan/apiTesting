@@ -11,9 +11,7 @@ class TestCheck(unittest.TestCase):
     api_url = "/users/1"
     api_url2 = "/users/"
     post_url = "/posts"
-    data_set = [(1, "Leanne Graham"),
-                (2, "Ervin Howell"),
-                (3, "Clementine Bauch")]
+
 
     json_format = {
         "id": 1,
