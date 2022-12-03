@@ -4,6 +4,7 @@ import unittest
 import json
 import jsonpath
 
+@EnesErözkan 
 
 class TestCheck(unittest.TestCase):
     url = "https://jsonplaceholder.typicode.com"
